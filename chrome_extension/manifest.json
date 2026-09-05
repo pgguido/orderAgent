@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "orderAgent",
+  "version": "1.0",
+  "description": "A Chrome side panel extension for preparing shopping carts on ecommerce sites.",
+  "permissions": [
+    "sidePanel"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  }
+}
