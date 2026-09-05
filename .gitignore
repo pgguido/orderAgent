@@ -1,0 +1,25 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+*.ini
+
+# Code Editors & IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Logs and Runtime Diagnostics
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Chrome Extension Specific (Optional)
+# If you pack your extension manually, don't track the raw crx files
+*.crx
+*.pem
