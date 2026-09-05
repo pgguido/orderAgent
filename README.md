@@ -1,4 +1,4 @@
-orderAgent
+orderAgent 1
 
 orderAgent is an AI agent that runs as a sidepanel chrome extension.
 
